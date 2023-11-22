@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome to the NHS Transformation Unit GitHub
 
-<!--
+## Who we are?
 
-**Here are some ideas to get you started:**
+Our team of transformation professionals work in partnership with our clients, to transform health and care outcomes for people and communities, empowering change from within. We offer support over the whole cycle of transformation – preparing for, designing, mobilising and implementing change. Find out more about the services that we provider [here](https://transformationunit.nhs.uk/services/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To support the transformation of health and care services we have an experienced and skilled analytics team to undertake a wide range of analytical and modelling projects. Please take a look through our repositories to see examples of our work and the products that we offer.
