@@ -1,6 +1,6 @@
-<img src="tu_rainbow.svg" alt="TU Rainbow" width="100%" align="center"/>
+<img src="https://github.com/NHS-Transformation-Unit/.github/blob/main/profile/tu_rainbow.svg" alt="TU Rainbow" width="100%" align="center"/>
 
-<img src="TU_logo_large.png" alt="TU logo" width="200" align="right"/>
+<img src="https://github.com/NHS-Transformation-Unit/.github/blob/main/profile/TU_logo_large.png" alt="TU logo" width="200" align="right"/>
 
 # Welcome to the NHS Transformation Unit GitHub
 
