@@ -13,7 +13,7 @@
 
 ## Who we are?
 
-Hello! &#x1F44B; <!-- Waving Hand --> Our team of transformation professionals work in partnership with our clients, to transform health and care outcomes for people and communities, empowering change from within. We offer support over the whole cycle of transformation – preparing for, designing, mobilising and implementing change. Find out more about the services that we provider [here](https://transformationunit.nhs.uk/services/).
+Hello! &#x1F44B;  Our team of transformation professionals work in partnership with our clients, to transform health and care outcomes for people and communities, empowering change from within. We offer support over the whole cycle of transformation – preparing for, designing, mobilising and implementing change. Find out more about the services that we provider [here](https://transformationunit.nhs.uk/services/).
 
 <br/>
 
@@ -37,10 +37,9 @@ Take a look at the repositories to see examples of our work.
 
 ## Get in Touch
 
-We're always interested in collaborating and connecting with colleagues in health and care. Whether you're interested in partnering up, sharing ideas, or just saying hi, we'd love to hear from you.
+We're always interested in collaborating and connecting with colleagues in health and care. Please get in touch:
 
 * [Website](https://transformationunit.nhs.uk/) 
 * [LinkedIn](https://www.linkedin.com/company/transformationunit)
 * [Email](transformationunit@nhs.net) 
 
-Thanks for stopping by! Let's work together to transform health and care outcomes &#x1F680; <!-- Rocket -->
